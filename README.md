@@ -1,7 +1,7 @@
-##Buid 
- docker-compose build
+## Buid 
+docker-compose build
  
-##Run
- docker-compose up -d
+## Run
+docker-compose up -d
 
-##Test
+## Test
